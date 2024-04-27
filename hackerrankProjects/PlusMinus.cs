@@ -19,13 +19,13 @@ namespace hackerrankProjects
 
             }
         }
-        class Solution
-        {
-            public static void Main(string[] args)
-            {
-                List<int> arr = new List<int> { -4, 3, -9, 0, 4, 1 };
-                Result.plusMinus(arr);
-            }
-        }
+        //class Solution
+        //{
+        //    public static void Main(string[] args)
+        //    {
+        //        List<int> arr = new List<int> { -4, 3, -9, 0, 4, 1 };
+        //        Result.plusMinus(arr);
+        //    }
+        //}
     }
 }
