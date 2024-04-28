@@ -7,8 +7,8 @@ namespace hackerrankProjects
     {      
         public static void Main(string[] args)
         {
-            
-            Console.WriteLine(PermutingTwoArrays.twoArrays(5, [1, 2, 2, 1], [3, 3, 3, 4]));
+
+            Console.WriteLine(SubArrayDivision.birthday([1, 2, 1, 3, 2],3,2));
         }
     }
 }
